@@ -1,3 +1,4 @@
+//card game
 function main() {
     let confirm = document.getElementById('mainResult').innerHTML;
     if (confirm == "You lost !"){
